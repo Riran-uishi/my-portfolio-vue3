@@ -75,21 +75,30 @@
                 <v-btn icon="fas fa-laptop" color="#FBDF7E" class="text-white"></v-btn>
                 <h3 class="ml-3 mt-4">Web Designer</h3>
                 <p class="text-grey ml-3 mt-4 text-caption">
-                  Lorem,ipsum dolor sit amet
+                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Aspernatur, ullam perspiciatis fugiat temporibus laboriosam
+                accusamus tempora repellendus sequi sed cum dolorum vero est.
+                Placeat dicta architecto reiciendis est veniam. Unde.
                 </p>
               </div>
               <div class="child">
                 <v-btn icon="fas fa-mobile-alt" color="#FBDF7E" class="text-white"></v-btn>
                 <h3 class="ml-3 mt-4">App Designer</h3>
                 <p class="text-grey ml-3 mt-4 text-caption">
-                  Lorem,ipsum dolor sit amet
+                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Aspernatur, ullam perspiciatis fugiat temporibus laboriosam
+                accusamus tempora repellendus sequi sed cum dolorum vero est.
+                Placeat dicta architecto reiciendis est veniam. Unde.
                 </p>
               </div>
               <div class="child">
                 <v-btn icon="fas fa-camera" color="#FBDF7E" class="text-white"></v-btn>
                 <h3 class="ml-3 mt-4">Photography</h3>
                 <p class="text-grey ml-3 mt-4 text-caption">
-                  Lorem,ipsum dolor sit amet
+                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Aspernatur, ullam perspiciatis fugiat temporibus laboriosam
+                accusamus tempora repellendus sequi sed cum dolorum vero est.
+                Placeat dicta architecto reiciendis est veniam. Unde.
                 </p>
               </div>
             </v-col>
@@ -132,7 +141,7 @@
                 <v-img src="i10.jpg" height="200px" cover></v-img>
                 <v-card-title>We provide you the best</v-card-title>
                 <v-card-subtitle>
-                  By AAE IdeaPro | 06 sep 2022
+                  By XYZ | 06 sep 2022
                 </v-card-subtitle>
                 <v-card-text>
                   Lorem ipsum dolor sit amet consectectur adipisicing elit.
